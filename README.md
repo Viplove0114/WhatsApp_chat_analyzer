@@ -1,7 +1,3 @@
-Here's the final **`README.md`** file with the additional privacy note and chat export instructions:
-
----
-
 # 📊 WhatsApp Chat Analyzer
 
 ### **Overview**
